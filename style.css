@@ -1,0 +1,45 @@
+body {
+  text-align: center;
+  background-color: rgb(233, 215, 205);
+  margin: 40px;
+}
+h1 {
+  color: grey;
+  font-family: 'Oswald', sans-serif;
+  
+}
+p {
+  color: grey;
+  font-family: 'Fira sans', sans-serif;
+}
+a {
+  color: crimson;
+  text-decoration: none;
+}
+a:hover {
+  color: blueviolet;
+  text-decoration: underline;
+}
+#first-website {
+  color: rgb(180, 50, 100);
+  font-size: 48px;
+  font-weight: bold;
+  font-family:'Fira sans', sans-serif;
+}
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+}
+#ll{
+    color: rgb(180, 50, 100);
+    font-size: 24px;
+    font-weight: bold;
+    font-family:'Fira sans', sans-serif;
+}
+#bs{
+    color: rgb(180, 50, 100);
+    font-size: 24px;
+    font-weight: bold;
+    font-family:'Fira sans', sans-serif;
+}
